@@ -6,13 +6,15 @@ Faculty of Computer Science & Engineering
 📋 Project Description
 This Anime Recommendation System is built using Python and various machine learning models, designed to recommend anime based on user preferences. It features:
 
-Multiple Recommendation Models: Cosine similarity, KNN, Random Forest, and Naive Bayes.
+Multiple Recommendation Models:
+Cosine similarity, KNN, Random Forest, and Naive Bayes.
 Data Preprocessing: Clean the data and extract relevant features for modeling.
 User Interface: A Tkinter-based GUI for an interactive experience.
 Anime Dataset: The system uses the Anime Recommendations Database.
 
 🌟 Features
-Cosine Similarity: Recommends anime using CountVectorizer or TfidfVectorizer.
+Cosine Similarity:
+Recommends anime using CountVectorizer or TfidfVectorizer.
 K-Nearest Neighbors (KNN): Finds similar anime based on synopsis.
 Random Forest & Naive Bayes: Models trained to predict scores and titles.
 Interactive GUI: Built with Tkinter for easy user interaction.
