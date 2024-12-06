@@ -1,7 +1,7 @@
 # Anime Recommendation System
 Alamein University  
 Faculty of Computer Science & Engineering  
-![Project Banner](network-banner.png)
+![Project Banner](banner3.png)
 
 📋 Project Description
 This Anime Recommendation System is built using Python and various machine learning models, designed to recommend anime based on user preferences. It features:
